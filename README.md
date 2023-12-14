@@ -18,15 +18,20 @@ Closing Prices along different time period
 ![download](https://github.com/CHINMAYI-23/StockPrediction/assets/87280846/ccdd1aba-409d-4f2e-bc6f-e06166f14ce2)
 
 
+Linear Regression:
 
 ![download](https://github.com/CHINMAYI-23/StockPrediction/assets/87280846/132c8f10-9726-46a0-b81f-89bbda0424bf)
 
 
 
+Ridge Regression:
+
 ![download](https://github.com/CHINMAYI-23/StockPrediction/assets/87280846/2ee07113-9764-45d1-b137-ce6f32a99fb1)
 
 
 
+
+Lasso Regression:
 
 ![download](https://github.com/CHINMAYI-23/StockPrediction/assets/87280846/e74ff1b8-1e49-4c6d-9e86-8eaeb0157996)
 
@@ -39,6 +44,11 @@ conda create a new environment
 ----
 conda create -p venv python==3.9 -y
 ----
+
+
+
+
+https://chinmayi-23-stockprediction-app-l7qsnc.streamlit.app/
 
 
 
