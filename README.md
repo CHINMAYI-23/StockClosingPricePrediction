@@ -1,4 +1,4 @@
-# StockPrediction
+# Stock Closing Price Prediction
 
 # Yes Bank Stock Closing Price Prediction
 
@@ -16,6 +16,8 @@ The main objective is to predict the stock's closing price of the month.
 Closing Prices along different time period
 
 ![download](https://github.com/CHINMAYI-23/StockPrediction/assets/87280846/ccdd1aba-409d-4f2e-bc6f-e06166f14ce2)
+
+
 
 
 Linear Regression:
